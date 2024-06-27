@@ -12,7 +12,7 @@ This project aims to solve a 9x9 Sudoku puzzle from a file. The program parses t
 
 A GUI wiill be made at some later time...
 
-## Naive backtrack
+## Naive backtracking
 
 To run the naive backtracking algorithm, use the following command:
 
